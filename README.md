@@ -2,8 +2,6 @@ Best project structure for your React App
 -----------------------------------------
 > the idea of this repo is to show how you can structure files by using folders
 ```
-react-folder-structure
-├── build
 ├── node_modules (.gitignore)
 ├── public
 │   ├── favicon.ico
@@ -12,9 +10,9 @@ react-folder-structure
 ├── src
 │   ├── components
 │   │   ├── app
-│   │   │   ├── app.css
-│   │   │   ├── app.js
-│   │   │   └── app.test.js
+│   │   │   ├── App.css
+│   │   │   ├── App.js
+│   │   │   └── App.test.js
 │   │   └── index.js
 │   ├── images
 │   │   └── logo.svg
@@ -23,8 +21,10 @@ react-folder-structure
 │   │   └── index.js
 │   ├── index.css
 │   ├── index.js
-│   └── service-worker.js
+│   ├── serviceWorker.js
+│   └── setupTests.js
 ├── .gitignore
 ├── package.json
 └── README.md
+└── yarn.lock
 ```

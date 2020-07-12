@@ -8,14 +8,15 @@ Best project structure for your React App
 │   ├── index.html
 │   └── manifest.json
 ├── src
+│   ├── assets
+│   │   │   ├── images
+│   │   │   └── logo.svg
 │   ├── components
 │   │   ├── app
 │   │   │   ├── App.css
 │   │   │   ├── App.js
 │   │   │   └── App.test.js
 │   │   └── index.js
-│   ├── images
-│   │   └── logo.svg
 │   ├── utils
 │   │   ├── ...
 │   │   └── index.js

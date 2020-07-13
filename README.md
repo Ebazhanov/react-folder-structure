@@ -1,6 +1,7 @@
-Best project structure for your React App
+Project structure for your React App
 -----------------------------------------
 > the idea of this repo is to show how you can structure files by using folders
+> in additional you can take a look at [style guide standards](https://github.com/airbnb/javascript/tree/master/react)
 ```
 ├── node_modules (.gitignore)
 ├── public

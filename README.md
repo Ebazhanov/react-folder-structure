@@ -11,6 +11,8 @@ Best project structure for your React App
 │   ├── assets
 │   │   │   ├── images
 │   │   │   └── logo.svg
+│   ├── constants
+│   │   └── environment.js
 │   ├── components
 │   │   ├── app
 │   │   │   ├── App.css

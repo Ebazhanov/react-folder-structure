@@ -12,7 +12,7 @@ Best project structure for your React App
 │   │   │   ├── images
 │   │   │   └── logo.svg
 │   ├── constants
-│   │   └── environment.js
+│   │   └── data.js
 │   ├── components
 │   │   ├── app
 │   │   │   ├── App.css

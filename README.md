@@ -17,7 +17,7 @@ Project structure for your React App
 │   ├── components
 │   │   ├── app
 │   │   │   ├── App.css
-│   │   │   ├── App.js
+│   │   │   ├── App.jsx
 │   │   │   └── App.test.js
 │   │   └── index.js
 │   ├── utils
